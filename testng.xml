@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="F:/Important/RestAssured/src/test/java/RestAssuredTests"><classes><class name="RestAssuredTests.Validate_Response_Code"><methods><include name="Validate_Response_Code_By_Given"/><include name="Validate_Response_Code_By_Response_Library"/></methods></class><class name="RestAssuredTests.Validate_Response_Data"><methods><include name="Validate_Data_From_Response"/></methods></class></classes></test></suite>
