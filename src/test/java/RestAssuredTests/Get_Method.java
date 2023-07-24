@@ -1,6 +1,8 @@
 package RestAssuredTests;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
+
+import io.restassured.RestAssured;
 import org.testng.annotations.Test;
 
 public class Get_Method {
